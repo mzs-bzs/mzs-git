@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\c language\\2026_11_3  gametest1\\2026_11_3  gametest1\\game.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stdio.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt.h",
+            "d:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
+            "d:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+            "d:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
+            "d:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
