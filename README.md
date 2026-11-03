@@ -1,13 +1,16 @@
-# Git
+# mzs-git
 
-这是一个占位仓库，用于初始化本地 Git 项目并推送到 GitHub。
+这是一个初始化用的占位仓库，本地目录 `D:\Git`，远端为
+[mzs-bzs/mzs-git](https://github.com/mzs-bzs/mzs-git)。
 
-## 使用
+## 克隆
 
 ```bash
-git clone https://github.com/<你的用户名>/Git.git
-cd Git
+git clone https://github.com/mzs-bzs/mzs-git.git
+cd mzs-git
 ```
+
+## 日常使用
 
 把项目文件放进本目录后：
 
@@ -17,7 +20,8 @@ git commit -m "描述这次改动"
 git push
 ```
 
-## 说明
+## 当前状态
 
 - 默认分支：`main`
-- 忽略规则见 `.gitignore`
+- 已跟踪文件：`README.md`、`.gitignore`
+- 忽略规则见 `.gitignore`（系统临时文件、编辑器配置、日志、`.env`、`node_modules/`、Python 缓存、构建产物等）
