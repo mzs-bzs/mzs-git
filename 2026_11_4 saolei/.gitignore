@@ -1,0 +1,13 @@
+# Visual Studio 生成物
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.obj
+*.idb
+*.pdb
+*.ilk
+*.tlog
+*.exe
+*.dll

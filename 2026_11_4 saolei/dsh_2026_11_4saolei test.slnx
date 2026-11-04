@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dsh_2026_11_4saolei test/dsh_2026_11_4saolei test.vcxproj" />
+</Solution>
