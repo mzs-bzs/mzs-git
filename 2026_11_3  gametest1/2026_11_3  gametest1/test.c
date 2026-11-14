@@ -20,14 +20,20 @@ void game()
 	InintBoard(mine, ROWS, COLS, '0');//'0'
 	InintBoard(show, ROWS, COLS, '*');//'*'
 	//打印棋盘游戏区
-	DisplayBoard(mine, ROW, COL);
+	//DisplayBoard(mine, ROW, COL);
 	DisplayBoard(show, ROW, COL);
-	
+	//布置雷
+	SetMine(mine, ROW, COL);
+	//DisplayBoard(mine, ROW, COL);
+	//排查雷
+	FindMine(mine, show, ROW, COL);
+
 }
 
 int main()
 {
 	int input = 0;
+	srand((unsigned int)time(NULL));
 	do {
 		menu();
 		printf("请选择：");
