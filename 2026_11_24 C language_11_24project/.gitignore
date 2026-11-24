@@ -1,0 +1,18 @@
+# ---- Visual Studio C/C++ 构建产物 ----
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.suo
+*.vsidx
+*.ilk
+*.pdb
+*.obj
+*.idb
+*.tlog
+*.recipe
+*.lastbuildstate
+*.exe
+*.log
